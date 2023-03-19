@@ -21,5 +21,5 @@ Run `cd ..` in your terminal to get out of the server directory and then run `cd
 ### Step 6:
 Run `npm start` to start the client 
 
-## Step 7:
+### Step 7:
 `localhost:3000` should open automatically in your browser, thus allowing you to use the project locally. Enjoy!
