@@ -1,7 +1,6 @@
 # Imaginative, a Fullstack blog application
 
-![Screenshot of project homepage]
-(https://res.cloudinary.com/emmanuelkepler/image/upload/v1679259333/Screenshot_18_cxt1fe.png)
+![Screenshot of project homepage](https://res.cloudinary.com/emmanuelkepler/image/upload/v1679259333/Screenshot_18_cxt1fe.png)
 
 ## Steps
 ### Step 1: 
