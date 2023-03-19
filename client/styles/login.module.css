@@ -1,0 +1,64 @@
+.login_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://twilio-cms-prod.s3.amazonaws.com/original_images/lines-of-code.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  padding: 1rem;
+}
+.login_form {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255, 0.5);
+}
+.login_container p span {
+  color: red;
+  cursor: pointer;
+}
+.login_container p span:hover {
+  color: rgb(92, 8, 8);
+}
+.login_form input {
+  border: 0;
+  border-bottom: 1px solid rgb(148, 8, 8);
+  background-color: transparent;
+  color: black;
+  outline: 0;
+  width: 300px;
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 10px;
+}
+.login_form input:focus {
+  border-bottom: 1px solid rgb(75, 4, 4);
+}
+.login_form h3 {
+  font-size: 3rem;
+  font-weight: 500;
+  margin: 0;
+}
+.login_form h4 {
+  margin: 0;
+  padding: 10px;
+  font-weight: normal;
+}
+.login_form input:focus {
+  outline: 0;
+}
+.formItem {
+  padding-top: 2rem;
+}
+.formItem_button {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  width: 300px;
+  padding: 0.7rem;
+  font-weight: bold;
+}

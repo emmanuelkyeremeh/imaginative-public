@@ -1,0 +1,21 @@
+.postcard_container {
+  width: 20rem;
+  padding-bottom: 3rem;
+}
+.postcard_banner {
+  height: 12rem;
+  filter: brightness(70%);
+  background-size: cover;
+  border-radius: 15px;
+  padding: 10px;
+}
+.postcard_info p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
+  font-size: 0.8rem;
+}
+.postcard_info p span {
+  margin-right: 5px;
+}

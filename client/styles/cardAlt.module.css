@@ -1,0 +1,34 @@
+.cardalt_container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.cardalt_banner {
+  background-size: cover;
+  color: transparent;
+  width: 5rem;
+  border-radius: 15px;
+  margin-right: 1rem;
+}
+.cardalt_container_info h3 {
+  margin: 0;
+  padding: 0;
+}
+.EnlargedCardAlt_container {
+  display: flex;
+  padding-bottom: 3rem;
+}
+.Enlarged_cardalt_banner {
+  background-size: cover;
+  color: transparent;
+  border-radius: 15px;
+  margin-right: 1rem;
+  width: 200rem;
+  margin-right: 4rem;
+}
+.Enlarged_cardalt_container_info h3 {
+  font-size: 2rem;
+}
+.Enlarged_cardalt_desc {
+  color: gray;
+}

@@ -1,0 +1,59 @@
+.showcase_container {
+  display: flex;
+  align-items: stretch;
+}
+.ShowcaseCard_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  filter: brightness(70%);
+  padding: 1rem;
+  background-size: cover;
+  bottom: 0;
+  color: white;
+  font-weight: bolder;
+}
+.ShowcaseCard_button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 10px;
+  padding: 5px;
+}
+.ShowcaseCard_item_heading {
+  font-size: 2rem;
+  padding: 0;
+  margin: 0;
+}
+.ShowcaseCard_info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.ShowcaseCard_info span {
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+  font-size: 0.9rem;
+}
+.ShowcaseCard_item:last-child {
+  display: flex;
+}
+.ShowcaseCard_info_image {
+  border-radius: 50%;
+}
+.showcase_flexItem2 {
+  display: flex;
+  flex-direction: column;
+}
+.showcase_flexItem3 {
+  display: flex;
+  flex-direction: column;
+}
+.ShowcaseCard_item_title {
+  font-size: 1rem;
+}
+.ShowcaseCard_banner_edit {
+  border-radius: 15px;
+  margin-bottom: 3rem;
+}
